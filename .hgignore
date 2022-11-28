@@ -1,0 +1,7 @@
+^BUILD$
+^.mbed$
+^FastPWM$
+^mbed-os$
+^compile_commands.json$
+^.clangd$
+^.cache$
